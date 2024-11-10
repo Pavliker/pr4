@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_1aWobC
 For practic1
+=======
+For practic2
+>>>>>>> .merge_file_HWzlt7
